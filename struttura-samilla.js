@@ -1,0 +1,60 @@
+// struttura.js — Samilla Loft — IT + EN
+// Da importare in strutture-Rab.js quando il sito è live
+
+export const struttura_IT = {
+  id: 'samilla-loft',
+  nome: 'Samilla Loft',
+  cover: 'https://a0.muscache.com/im/pictures/hosting/Hosting-1618206280550914997/original/2916e3d6-8aa4-4503-b605-29f860066e90.jpeg',
+  localita: 'Rimini, RN',
+  regione: 'Emilia-Romagna',
+  tipologia: 'Appartamento',
+  ospiti: 3,
+  camere: 1,
+  bagni: 1,
+  animali: null, // verificare su Airbnb
+  descrizione: 'Loft moderno e luminoso nel cuore di Rimini, a pochi passi dalla spiaggia adriatica. Vista sulla spiaggia, Wi-Fi, biciclette incluse. Ideale per 2-3 ospiti.',
+  tag: ['Vista mare', 'Biciclette incluse', 'Wi-Fi fibra', 'Self check-in'],
+  distanze: [
+    { luogo: 'Spiaggia di Rimini', tempo: '2 min a piedi' },
+    { luogo: 'Centro di Rimini', tempo: '10 min a piedi' },
+    { luogo: 'Cesena', tempo: '30 min' },
+    { luogo: 'San Marino', tempo: '35 min' },
+    { luogo: 'Ravenna', tempo: '40 min' },
+    { luogo: 'Bologna', tempo: '80 min' },
+  ],
+  rating: 4.88,
+  recensioni: 0,
+  prezzo_da: null,
+  url: 'https://samilla.romagna-affitti-brevi.it/',
+  airbnb: 'https://www.airbnb.it/rooms/1618206280550914997',
+  attivo: true,
+};
+
+export const struttura_EN = {
+  id: 'samilla-loft',
+  nome: 'Samilla Loft',
+  cover: 'https://a0.muscache.com/im/pictures/hosting/Hosting-1618206280550914997/original/2916e3d6-8aa4-4503-b605-29f860066e90.jpeg',
+  localita: 'Rimini, RN',
+  regione: 'Emilia-Romagna',
+  tipologia: 'Apartment',
+  ospiti: 3,
+  camere: 1,
+  bagni: 1,
+  animali: null,
+  descrizione: 'Modern and bright loft in the heart of Rimini, steps from the Adriatic beach. Sea view, Wi-Fi, bikes included. Ideal for 2-3 guests.',
+  tag: ['Sea view', 'Bikes included', 'Fibre Wi-Fi', 'Self check-in'],
+  distanze: [
+    { luogo: 'Rimini beach', tempo: '2 min on foot' },
+    { luogo: 'Rimini city centre', tempo: '10 min on foot' },
+    { luogo: 'Cesena', tempo: '30 min' },
+    { luogo: 'San Marino', tempo: '35 min' },
+    { luogo: 'Ravenna', tempo: '40 min' },
+    { luogo: 'Bologna', tempo: '80 min' },
+  ],
+  rating: 4.88,
+  recensioni: 0,
+  prezzo_da: null,
+  url: 'https://samilla.romagna-short-stay.com/',
+  airbnb: 'https://www.airbnb.it/rooms/1618206280550914997',
+  attivo: true,
+};

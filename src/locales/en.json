@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "appartamento": "The Apartment",
+    "esperienza": "Experience",
+    "comeFunziona": "How to Book",
+    "recensioni": "Reviews",
+    "posizione": "Location",
+    "prenota": "Book on Airbnb"
+  },
+  "hero": {
+    "badge": "Rimini · Seafront",
+    "titolo": "A bright loft\nsteps from the sea",
+    "sottotitolo": "In the heart of the Adriatic Riviera, Samilla Loft is your modern retreat for seaside holidays, romantic weekends and remote working with views over the Adriatic.",
+    "cta_primary": "Book on Airbnb",
+    "cta_secondary": "Discover more",
+    "stat1_val": "3",
+    "stat1_label": "Max guests",
+    "stat2_val": "4.88",
+    "stat2_label": "Rating",
+    "stat3_val": "2 min",
+    "stat3_label": "To the beach"
+  },
+  "apartment": {
+    "label": "The Apartment",
+    "titolo": "Modern, bright, with sea view",
+    "descrizione": "Samilla Loft is an entire modern and bright loft in the heart of Rimini, steps from the Adriatic beach. Carefully designed spaces, full amenities and a sea view that makes every morning special.",
+    "ospiti": "3 guests",
+    "camere": "1 bedroom",
+    "bagni": "1 bathroom",
+    "tipo": "Entire loft"
+  },
+  "amenities": {
+    "titolo": "Everything you need",
+    "items": [
+      { "icon": "🌊", "titolo": "Sea view", "desc": "Enjoy the Adriatic panorama directly from the loft" },
+      { "icon": "🚴", "titolo": "Bikes included", "desc": "Explore Rimini by bike — two bicycles available" },
+      { "icon": "❄️", "titolo": "Air conditioning", "desc": "Perfect climate in every season" },
+      { "icon": "📶", "titolo": "Fast Wi-Fi", "desc": "Fibre connection included — ideal for remote working" },
+      { "icon": "🍽️", "titolo": "Equipped kitchen", "desc": "Dishwasher, microwave, everything you need" },
+      { "icon": "🛗", "titolo": "Lift", "desc": "Easy access to all floors" },
+      { "icon": "🌡️", "titolo": "Heating", "desc": "Radiant panels for maximum winter comfort" },
+      { "icon": "🅿️", "titolo": "Parking", "desc": "Paid parking available on site" }
+    ]
+  },
+  "experience": {
+    "label": "The Experience",
+    "titolo": "Rimini and the Adriatic Riviera",
+    "cards": [
+      {
+        "titolo": "The beach at your doorstep",
+        "desc": "Samilla Loft is 2 minutes' walk from the beach. Wake up, grab the bikes and reach the sea — the perfect day starts like this."
+      },
+      {
+        "titolo": "Rimini beyond the Riviera",
+        "desc": "Minutes from the loft you'll find the Tempio Malatestiano, the Arch of Augustus and Piazza Cavour — two thousand years of history within cycling distance."
+      },
+      {
+        "titolo": "Romagna on a plate",
+        "desc": "Piadina flatbread, passatelli in broth, Sangiovese di Romagna. Traditional restaurants in the centre are 10 minutes' walk from the loft."
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "How to Book",
+    "titolo": "Four steps and you're in Rimini",
+    "steps": [
+      { "num": "01", "titolo": "Check dates", "desc": "Check availability directly on Airbnb and choose your stay dates." },
+      { "num": "02", "titolo": "Book securely", "desc": "Protected payment via Airbnb. Receive instant confirmation by email." },
+      { "num": "03", "titolo": "Self check-in", "desc": "Access the loft independently with a digital access code. No waiting." },
+      { "num": "04", "titolo": "Enjoy Rimini", "desc": "Wake up with the scent of the sea, grab the bikes and start your Romagna adventure." }
+    ]
+  },
+  "testimonials": {
+    "label": "Reviews",
+    "titolo": "Brand new property",
+    "sottotitolo": "Samilla Loft is a brand new property. We are confident it will soon become the favourite of those who love the sea at Rimini. Book among the first and leave your review.",
+    "rating_label": "On Airbnb",
+    "rating_val": "4.88"
+  },
+  "location": {
+    "label": "Location",
+    "titolo": "In the heart of the Riviera",
+    "desc": "Samilla Loft is located on Viale Amerigo Vespucci, steps from the beach and the centre of Rimini. A strategic position for exploring all of Romagna.",
+    "distanze": [
+      { "luogo": "Rimini beach", "tempo": "2 min on foot" },
+      { "luogo": "Rimini city centre", "tempo": "10 min on foot" },
+      { "luogo": "Cesena", "tempo": "30 min by car" },
+      { "luogo": "San Marino", "tempo": "35 min by car" },
+      { "luogo": "Ravenna", "tempo": "40 min by car" },
+      { "luogo": "Bologna", "tempo": "80 min by car" }
+    ],
+    "indirizzo": "Viale Amerigo Vespucci, 47921 Rimini RN"
+  },
+  "host": {
+    "label": "Your Hosts",
+    "titolo": "Anna and Cesare",
+    "nome": "Anna and Cesare — Lucea Collection",
+    "bio": "We are Anna and Cesare, the founders of Lucea Collection. We carefully manage a selection of holiday apartments in Romagna, each chosen for its location, comfort and authenticity. For us every guest is unique, and our goal is for you to feel at home — or better still, even more comfortable.",
+    "badge": "Superhost",
+    "stats": [
+      { "valore": "5★", "etichetta": "Average rating" },
+      { "valore": "< 1h", "etichetta": "Response time" },
+      { "valore": "100%", "etichetta": "Response rate" }
+    ]
+  },
+  "finalCta": {
+    "titolo": "Ready for your stay in Rimini?",
+    "sottotitolo": "Check availability and book Samilla Loft directly on Airbnb.",
+    "cta": "Book now on Airbnb"
+  },
+  "footer": {
+    "tagline": "Your seafront loft in Rimini",
+    "nav_label": "Navigate",
+    "links": ["The Apartment", "Experience", "How to Book", "Location"],
+    "contact_label": "Contact",
+    "legal": "All rights reserved.",
+    "privacy": "Privacy Policy"
+  }
+}
