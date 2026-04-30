@@ -72,10 +72,23 @@
   },
   "testimonials": {
     "label": "Reviews",
-    "titolo": "Brand new property",
-    "sottotitolo": "Samilla Loft is a brand new property. We are confident it will soon become the favourite of those who love the sea at Rimini. Book among the first and leave your review.",
+    "titolo": "What our guests say",
     "rating_label": "On Airbnb",
-    "rating_val": "4.88"
+    "rating_val": "5.0",
+    "items": [
+      {
+        "nome": "Claudia",
+        "luogo": "Nettuno, Italy",
+        "stelle": 5,
+        "testo": "Very clean apartment, fully equipped with everything you need (kitchen utensils, large TV, drying rack...). The location is excellent for getting around on foot — it's about 10 minutes' walk from the train station and faces directly onto the main promenade of Rimini Marina, full of bars and restaurants. The host was always very kind and ready to answer any question or need throughout the stay. 🔝 🔝 🔝"
+      },
+      {
+        "nome": "Iva",
+        "luogo": "Zagreb, Croatia",
+        "stelle": 5,
+        "testo": "Fantastic apartment on the main street, with many bars and restaurants, very close to the beach. The host thought of everything — he even left us toothbrushes and wine. We would definitely come back..."
+      }
+    ]
   },
   "location": {
     "label": "Location",
