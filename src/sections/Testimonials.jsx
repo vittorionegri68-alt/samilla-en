@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { config } from '../config/site_config';
-import t from '../locales/it.json';
+import t from '../locales/en.json';
 
 export default function Testimonials() {
   const ref = useRef(null);
