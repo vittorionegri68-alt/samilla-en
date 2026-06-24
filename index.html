@@ -50,8 +50,8 @@
   </script>
 
   <!-- Schema: LodgingBusiness -->
-  <script type="application/ld+json">
-  {
+    <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@type": [
     "LodgingBusiness",
@@ -75,14 +75,17 @@
     "latitude": "44.067346",
     "longitude": "12.581245"
   },
+  "hasMap": "https://maps.google.com/?q=44.067346,12.581245",
   "image": [
     "https://a0.muscache.com/im/pictures/hosting/Hosting-1618206280550914997/original/2916e3d6-8aa4-4503-b605-29f860066e90.jpeg",
     "https://a0.muscache.com/im/pictures/hosting/Hosting-1618206280550914997/original/ddd6f64d-2d02-402d-bd93-faf1cb7d4eac.jpeg",
     "https://a0.muscache.com/im/pictures/hosting/Hosting-1618206280550914997/original/931c2f12-4b44-417c-9d6e-a1410698f8bc.jpeg"
   ],
   "numberOfRooms": 1,
+  "numberOfBedrooms": 1,
   "checkinTime": "16:00",
   "checkoutTime": "10:00",
+  "petsAllowed": true,
   "amenityFeature": [
     {
       "@type": "LocationFeatureSpecification",
@@ -123,14 +126,30 @@
       "@type": "LocationFeatureSpecification",
       "name": "Parcheggio",
       "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Pets allowed",
+      "value": true
     }
   ],
   "priceRange": "€€",
   "currenciesAccepted": "EUR",
   "paymentAccepted": "Credit Card, Cash",
+  "tourBookingPage": "https://www.airbnb.it/rooms/1618206280550914997",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "CIN",
+    "value": "IT099014C2ACO5X9R9"
+  },
+  "containedInPlace": {
+    "@type": "AdministrativeArea",
+    "name": "Rimini"
+  },
   "sameAs": [
     "https://www.airbnb.it/rooms/1618206280550914997",
-    "https://samilla.romagna-affitti-brevi.it/"
+    "https://samilla.romagna-affitti-brevi.it/",
+    "https://www.instagram.com/luceacollection_/"
   ]
 }
   </script>
@@ -248,8 +267,8 @@
   </script>
 
   <!-- Schema: Person -->
-  <script type="application/ld+json">
-  {
+    <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Anna e Cesare",
@@ -263,6 +282,9 @@
     "Short-term rentals in Rimini",
     "Adriatic Riviera holidays",
     "Holiday apartments Romagna"
+  ],
+  "sameAs": [
+    "https://www.instagram.com/luceacollection_/"
   ]
 }
   </script>
