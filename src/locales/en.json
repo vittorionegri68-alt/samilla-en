@@ -33,14 +33,46 @@
   "amenities": {
     "titolo": "Everything you need",
     "items": [
-      { "icon": "🌊", "titolo": "Sea view", "desc": "Enjoy the Adriatic panorama directly from the loft" },
-      { "icon": "🚴", "titolo": "Bikes included", "desc": "Explore Rimini by bike — two bicycles available" },
-      { "icon": "❄️", "titolo": "Air conditioning", "desc": "Perfect climate in every season" },
-      { "icon": "📶", "titolo": "Fast Wi-Fi", "desc": "Fibre connection included — ideal for remote working" },
-      { "icon": "🍽️", "titolo": "Equipped kitchen", "desc": "Dishwasher, microwave, everything you need" },
-      { "icon": "🛗", "titolo": "Lift", "desc": "Easy access to all floors" },
-      { "icon": "🌡️", "titolo": "Heating", "desc": "Radiant panels for maximum winter comfort" },
-      { "icon": "🅿️", "titolo": "Parking", "desc": "Paid parking available on site" }
+      {
+        "icon": "🌊",
+        "titolo": "Sea view",
+        "desc": "Enjoy the Adriatic panorama directly from the loft"
+      },
+      {
+        "icon": "🚴",
+        "titolo": "Bikes included",
+        "desc": "Explore Rimini by bike — two bicycles available"
+      },
+      {
+        "icon": "❄️",
+        "titolo": "Air conditioning",
+        "desc": "Perfect climate in every season"
+      },
+      {
+        "icon": "📶",
+        "titolo": "Fast Wi-Fi",
+        "desc": "Fibre connection included — ideal for remote working"
+      },
+      {
+        "icon": "🍽️",
+        "titolo": "Equipped kitchen",
+        "desc": "Dishwasher, microwave, everything you need"
+      },
+      {
+        "icon": "🛗",
+        "titolo": "Lift",
+        "desc": "Easy access to all floors"
+      },
+      {
+        "icon": "🌡️",
+        "titolo": "Heating",
+        "desc": "Radiant panels for maximum winter comfort"
+      },
+      {
+        "icon": "🅿️",
+        "titolo": "Parking",
+        "desc": "Paid parking available on site"
+      }
     ]
   },
   "experience": {
@@ -65,10 +97,26 @@
     "label": "How to Book",
     "titolo": "Four steps and you're in Rimini",
     "steps": [
-      { "num": "01", "titolo": "Check dates", "desc": "Check availability directly on Airbnb and choose your stay dates." },
-      { "num": "02", "titolo": "Book securely", "desc": "Protected payment via Airbnb. Receive instant confirmation by email." },
-      { "num": "03", "titolo": "Self check-in", "desc": "Access the loft independently with a digital access code. No waiting." },
-      { "num": "04", "titolo": "Enjoy Rimini", "desc": "Wake up with the scent of the sea, grab the bikes and start your Romagna adventure." }
+      {
+        "num": "01",
+        "titolo": "Check dates",
+        "desc": "Check availability directly on Airbnb and choose your stay dates."
+      },
+      {
+        "num": "02",
+        "titolo": "Book securely",
+        "desc": "Protected payment via Airbnb. Receive instant confirmation by email."
+      },
+      {
+        "num": "03",
+        "titolo": "Self check-in",
+        "desc": "Access the loft independently with a digital access code. No waiting."
+      },
+      {
+        "num": "04",
+        "titolo": "Enjoy Rimini",
+        "desc": "Wake up with the scent of the sea, grab the bikes and start your Romagna adventure."
+      }
     ]
   },
   "testimonials": {
@@ -88,6 +136,18 @@
         "luogo": "Zagreb, Croatia",
         "stelle": 5,
         "testo": "Fantastic apartment on the main street, with many bars and restaurants, very close to the beach. The host thought of everything — he even left us toothbrushes and wine. We would definitely come back..."
+      },
+      {
+        "nome": "Mattia",
+        "luogo": "Italy",
+        "stelle": 5,
+        "testo": "Very comfortable accommodation, everything in order. Self check-in and check-out were very easy to follow."
+      },
+      {
+        "nome": "Maxime and Emilie",
+        "luogo": "Spain",
+        "stelle": 5,
+        "testo": "We had a wonderful stay. You really couldn't find a better location in Rimini. Everything is within walking distance: restaurants, bars, the beach. Everything is just steps away. The big bed is very comfortable, with a large TV in front and also a privacy curtain in case more people are sleeping in the apartment. I highly recommend this place. Great value for money. We will definitely come back next time we're in Rimini. I'd like to add that communication was excellent, very responsive to our questions. Thank you for this wonderful place. Other reviews mention loud music, but I can tell you it's actually not that bad, especially with the shutters closed in the evening you hear very little."
       }
     ]
   },
@@ -96,12 +156,30 @@
     "titolo": "In the heart of the Riviera",
     "desc": "Samilla Loft is located on Viale Amerigo Vespucci, steps from the beach and the centre of Rimini. A strategic position for exploring all of Romagna.",
     "distanze": [
-      { "luogo": "Rimini beach", "tempo": "2 min on foot" },
-      { "luogo": "Rimini city centre", "tempo": "10 min on foot" },
-      { "luogo": "Cesena", "tempo": "30 min by car" },
-      { "luogo": "San Marino", "tempo": "35 min by car" },
-      { "luogo": "Ravenna", "tempo": "40 min by car" },
-      { "luogo": "Bologna", "tempo": "80 min by car" }
+      {
+        "luogo": "Rimini beach",
+        "tempo": "2 min on foot"
+      },
+      {
+        "luogo": "Rimini city centre",
+        "tempo": "10 min on foot"
+      },
+      {
+        "luogo": "Cesena",
+        "tempo": "30 min by car"
+      },
+      {
+        "luogo": "San Marino",
+        "tempo": "35 min by car"
+      },
+      {
+        "luogo": "Ravenna",
+        "tempo": "40 min by car"
+      },
+      {
+        "luogo": "Bologna",
+        "tempo": "80 min by car"
+      }
     ],
     "indirizzo": "Viale Amerigo Vespucci, 47921 Rimini RN"
   },
@@ -112,9 +190,18 @@
     "bio": "We are Anna and Cesare, the founders of Lucea Collection. We carefully manage a selection of holiday apartments in Romagna, each chosen for its location, comfort and authenticity. For us every guest is unique, and our goal is for you to feel at home — or better still, even more comfortable.",
     "badge": "Superhost",
     "stats": [
-      { "valore": "5★", "etichetta": "Average rating" },
-      { "valore": "< 1h", "etichetta": "Response time" },
-      { "valore": "100%", "etichetta": "Response rate" }
+      {
+        "valore": "5★",
+        "etichetta": "Average rating"
+      },
+      {
+        "valore": "< 1h",
+        "etichetta": "Response time"
+      },
+      {
+        "valore": "100%",
+        "etichetta": "Response rate"
+      }
     ]
   },
   "finalCta": {
@@ -125,7 +212,12 @@
   "footer": {
     "tagline": "Your seafront loft in Rimini",
     "nav_label": "Navigate",
-    "links": ["The Apartment", "Experience", "How to Book", "Location"],
+    "links": [
+      "The Apartment",
+      "Experience",
+      "How to Book",
+      "Location"
+    ],
     "contact_label": "Contact",
     "legal": "All rights reserved.",
     "privacy": "Privacy Policy"
